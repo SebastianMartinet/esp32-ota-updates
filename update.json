@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.0.0",
   "url": "https://github.com/SebastianMartinet/esp32-ota-updates/releases/download/v1.1.2/Actualizacion_OTA_01.ino.node32sv112.bin",
   "mandatory": false,
   "changelog": "Primera actualización remota funcionando."
